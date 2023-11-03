@@ -1,11 +1,11 @@
 # next-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A Next.js 13 template for building apps with Radix UI, Tailwind CSS, Jest, Prettier, ESLint.
 
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npx create-next-app -e https://github.com/LucaMezz/nextjs-template
 ```
 
 ## Features
