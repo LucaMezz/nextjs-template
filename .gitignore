@@ -34,3 +34,9 @@ yarn-error.log*
 
 .contentlayer
 .env
+
+# typescript
+tsconfig.tsbuildinfo
+
+# yarn
+yarn.lock
